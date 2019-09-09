@@ -5,10 +5,13 @@
 ### <u>Part 1</u>
 
 Environment Setup Screenshots
+![setup](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/setup.png)
 
 ### <u>Part 2</u>
 
 Android application of calculator with use of Activity, Text-view, Buttons
+![button](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/setup.png)
+![activity](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/activity.png)
 
 * Source Code Package
 * APK
