@@ -67,11 +67,13 @@ For information about other build files, see Configure Your Build.
  java contains java code and res contains application resources such as .xml <br>
  ![structure](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/project_structure.png)
 
-3. What is “adb” and where is it located? What is the importance of “adb”?
+**3. What is “adb” and where is it located? What is the importance of “adb”?**
 
-   A: "adb" means Android Debug Bridge, it is a versatile command-line tool that let us communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device. It is very powerful and allows us to directly operate from the system level through shell commands on handheld devices. (<https://developer.android.com/studio/command-line/adb>)
+   **A:** "adb" means Android Debug Bridge, it is a versatile command-line tool that let us communicate with a device. The adb command facilitates a variety of device actions, such as installing and debugging apps, and it provides access to a Unix shell that you can use to run a variety of commands on a device. It is very powerful and allows us to directly operate from the system level through shell commands on handheld devices. (<https://developer.android.com/studio/command-line/adb>)
 
-4. Use “Android Monitor” for your application and attach screenshots of your application graphs from Android Monitor, in report.
+**4. Use “Android Monitor” for your application and attach screenshots of your application graphs from Android Monitor, in report.**
 
-   A: 
+   **A:**
+   ![calculator](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/calculator.gif)
+   
 
