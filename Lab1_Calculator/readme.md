@@ -18,10 +18,9 @@ Android application of calculator with use of Activity, Text-view, Buttons
 
 ### <u>Part 3</u>
 
-1. What is difference between Gradle and Maven? Why is Gradle used extensively in
-   Android project developments?
+1. **What is difference between Gradle and Maven? Why is Gradle used extensively in Android project developments?**
 
-   A: The major difference between Gradle and Maven are: flexibility, performance, user experience and dependency management. (<https://gradle.org/maven-vs-gradle/>)
+   **A:** The major difference between Gradle and Maven are: flexibility, performance, user experience and dependency management. (<https://gradle.org/maven-vs-gradle/>)
 
    - Flexibility: Gradle is more modeled in a way that is extensible in the most fundamental ways. Maven provides a very rigid model while Gradle's model allows to be used for native development with C/C++ and can be expanded to cover any ecosystem.
 
@@ -31,7 +30,7 @@ Android application of calculator with use of Activity, Text-view, Buttons
 
    - Dependency Management: Both are able to cache dependencies locally and download them in parallel. Maven allows users to override a dependency, but only by verion. Gradle allows users to declare API and implementaion dependencies to prevent unwanted libraries from leaking into the class paths of consumers.
 
-     **Why Gradle? **(<https://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio>)
+     **Why Gradle?**(<https://stackoverflow.com/questions/16754643/what-is-gradle-in-android-studio>)
 
      Some features made us to choose Gradle:
 
@@ -44,15 +43,14 @@ Android application of calculator with use of Activity, Text-view, Buttons
 
    
 
-2. What is project structure in Android Studio? List down the folder structure created
-   for your application.
+2. **What is project structure in Android Studio? List down the folder structure created for your application.**
 
-   A: The most important project files are the following (<https://developer.android.com/studio/projects#ProjectStructure>)
-> build/ Contains build outputs.
-  libs/ Contains private libraries.
-  - src/ Contains all code and resource files for the module in the following subdirectories:
-      androidTest/ Contains code for instrumentation tests that run on an Android device. For more information, see the    Android Test documentation.
-  - main/ Contains the "main" sourceset files: the Android code and resources shared by all build variants (files for other build variants reside in sibling directories, such as src/debug/ for the debug build type).
+   **A:** The most important project files are the following (<https://developer.android.com/studio/projects#ProjectStructure>)
+> - build/     Contains build outputs.
+> - libs/      Contains private libraries.
+> - src/       Contains all code and resource files for the module in the following subdirectories:
+>     + androidTest/    Contains code for instrumentation tests that run on an Android device. For more information, see the    Android Test documentation.
+>     + main/           Contains the "main" sourceset files: the Android code and resources shared by all build variants (files for other build variants reside in sibling directories, such as src/debug/ for the debug build type).
   - AndroidManifest.xml: Describes the nature of the application and each of its components. For more information, see the AndroidManifest.xml documentation.
   - java/ Contains Java code sources.
   - jni/ Contains native code using the Java Native Interface (JNI). For more information, see the Android NDK documentation.
