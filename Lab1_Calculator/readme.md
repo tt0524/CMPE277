@@ -73,7 +73,7 @@ For information about other build files, see Configure Your Build.
 
 **4. Use “Android Monitor” for your application and attach screenshots of your application graphs from Android Monitor, in report.**
 
-   **A:**
+   **A:**<br>
    ![calculator](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/calculator.gif)
    
 
