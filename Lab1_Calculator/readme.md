@@ -1,6 +1,7 @@
 # Lab1
 
-## Name: Xiaoting Jin	SJSU ID: 013842192
+### Name: Xiaoting Jin
+### SJSU ID: 013842192
 
 * [Source Code Package](https://github.com/xiaoting0524/CMPE277/tree/master/Lab1_Calculator/MyCalculatorJava)
 * [APK](https://github.com/xiaoting0524/CMPE277/tree/master/Lab1_Calculator/APK)
