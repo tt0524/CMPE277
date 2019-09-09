@@ -65,7 +65,9 @@ Android application of calculator with use of Activity, Text-view, Buttons
 - build.gradle (project)
 This defines your build configuration that apply to all modules. This file is integral to the project, so you should maintain them in revision control with all other source code.
 For information about other build files, see Configure Your Build.
-   
+  
+ **My Project Structure**
+ ![structure](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/project_structure.png)
 
 3. What is “adb” and where is it located? What is the importance of “adb”?
 
