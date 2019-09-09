@@ -2,6 +2,9 @@
 
 ## Name: Xiaoting Jin	SJSU ID: 013842192
 
+* Source Code Package
+* APK
+
 ### <u>Part 1</u>
 
 Environment Setup Screenshots
@@ -10,11 +13,8 @@ Environment Setup Screenshots
 ### <u>Part 2</u>
 
 Android application of calculator with use of Activity, Text-view, Buttons
-![button](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/setup.png)
+![button](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/button_textview.png)
 ![activity](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/activity.png)
-
-* Source Code Package
-* APK
 
 ### <u>Part 3</u>
 
