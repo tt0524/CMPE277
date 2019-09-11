@@ -76,7 +76,7 @@ For information about other build files, see Configure Your Build.
 
 **4. Use “Android Monitor” for your application and attach screenshots of your application graphs from Android Monitor, in report.**
 
-   **A:**<br>
+   **A:** Use **Profiler** to monitor the performance<br>
    ![profiler](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/profiler.png)
    ![app](https://github.com/xiaoting0524/CMPE277/blob/master/Lab1_Calculator/Screenshots/calculator.gif)
 
